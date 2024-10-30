@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer and DevOps Engineer from Ethiopia <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFmcDc5YnJ4eWtic3JueTd4NzViMWk2Y2VmOTdvcnVvMnZmdmxzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGi03CQFFZT3WSVZHd/giphy.gif" width="50">
+I am a  Back-End heavy Full-Stack developer and DevOps engineer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFmcDc5YnJ4eWtic3JueTd4NzViMWk2Y2VmOTdvcnVvMnZmdmxzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGi03CQFFZT3WSVZHd/giphy.gif" width="50">
 
 ---
 
